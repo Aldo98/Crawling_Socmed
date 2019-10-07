@@ -1,0 +1,11 @@
+{
+    "postgre": [
+        {
+            "Hostname": "basisdata.grit.id",
+            "Port": 5432,
+            "DBname": "mozaint",
+            "Username": "mozaint",
+            "Password": "mozaint@2019"
+        }
+    ]
+}
