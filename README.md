@@ -18,3 +18,5 @@ Facebook requires special treatment that is we need to login to our Facebook acc
 
 ## How to Use It
 first determine which social media you want to use then enter the folder in the folder there will be a notebook jupyter file (.ipnyb) that's the crawler
+
+after get data from crawling you can analysis data with many tool like emotion analysis(https://github.com/Aldo98/Emtion_Analysis.git) or others so the data captured can be useful 
